@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import static org.junit.Assert.assertEquals;
-
-
 public class SongTester {
 
     private Song song = new Song("Lavender Haze", "Taylor Swift");
@@ -31,4 +29,5 @@ public class SongTester {
     }
 
 }
+
 
